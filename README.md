@@ -7,5 +7,5 @@ This code implements bayesian machine learning algorithms described in "Pattern 
 - [Chapter 4. bayesian logistic regression](https://github.com/TakuyaMurata/Pattern-Recognition-and-Machine-Learning/blob/master/Chapter%204%20%20:%20Bayesian%20Logistic%20Regression.ipynb)
 
 
-##License
+## License
 MIT
