@@ -1,5 +1,5 @@
 # Pattern-Recognition-and-Machine-Learning
-Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning.
+Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning, which is available from [Amazon](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=sr_1_2?ie=UTF8&s=books&qid=1263391804&sr=8-2#reader_0387310738)
 
 
 ## Notebooks
